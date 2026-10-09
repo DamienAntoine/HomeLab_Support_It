@@ -34,9 +34,11 @@ Reproduction virtualisée de l'infrastructure informatique d'une PME, pour prati
 - [ ] Stratégies de groupe (GPO)
 - [ ] Installation de GLPI et traitement de tickets
 - [ ] Prise en main à distance
+- [ ] Administration du domaine depuis le poste client (outils RSAT)
 
 ### Phase 3 : approfondissement
 - [ ] Automatisation avec PowerShell
+- [ ] Déploiement d'un second contrôleur de domaine en Server Core, administré à distance
 - [ ] Sauvegarde et restauration
 - [ ] Pare-feu / routeur virtuel (pfSense)
 
