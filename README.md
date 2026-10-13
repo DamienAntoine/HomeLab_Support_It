@@ -16,7 +16,6 @@ Reproduction virtualisée de l'infrastructure informatique d'une PME, pour prati
 | --- | --- | --- | --- |
 | SRV-DC01 | Windows Server 2025 | Contrôleur de domaine : Active Directory, DNS, DHCP | 4 Go |
 | PC-CLIENT01 | Windows 11 Entreprise | Poste de travail d'un employé | 4 Go |
-| SRV-GLPI | Linux | Gestion des tickets d'incidents (GLPI) | 2 Go |
 
 ## Feuille de route
 
@@ -32,14 +31,15 @@ Reproduction virtualisée de l'infrastructure informatique d'une PME, pour prati
 - [ ] Gestion des comptes utilisateurs et des groupes Active Directory
 - [ ] Partages de fichiers et droits NTFS
 - [ ] Stratégies de groupe (GPO)
-- [ ] Installation de GLPI et traitement de tickets
+- [ ] Traitement de tickets dans ServiceNow (instance développeur), selon les pratiques ITIL
 - [ ] Prise en main à distance
 - [ ] Administration du domaine depuis le poste client (outils RSAT)
+- [ ] Chiffrement BitLocker avec sauvegarde des clés de récupération dans Active Directory
+- [ ] Sauvegarde et restauration
 
 ### Phase 3 : approfondissement
 - [ ] Automatisation avec PowerShell
 - [ ] Déploiement d'un second contrôleur de domaine en Server Core, administré à distance
-- [ ] Sauvegarde et restauration
 - [ ] Pare-feu / routeur virtuel (pfSense)
 
 ## Compétences mises en œuvre
