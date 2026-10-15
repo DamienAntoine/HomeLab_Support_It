@@ -23,8 +23,8 @@ Reproduction virtualisée de l'infrastructure informatique d'une PME, pour prati
 - [x] Création du dépôt et de la structure de documentation
 - [x] Téléchargement des images d'installation (Windows Server 2025, Windows 11 Entreprise)
 - [x] Préparation de l'hôte et installation de VirtualBox
-- [ ] Installation de Windows Server et promotion en contrôleur de domaine
-- [ ] Configuration DNS et DHCP
+- [x] Installation de Windows Server et promotion en contrôleur de domaine
+- [x] Configuration DNS et DHCP
 - [ ] Installation d'un poste client Windows 11 joint au domaine
 
 ### Phase 2 : support au quotidien
