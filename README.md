@@ -44,7 +44,11 @@ Reproduction virtualisée de l'infrastructure informatique d'une PME, pour prati
 
 ## Compétences mises en œuvre
 
-*Cette section est complétée au fil de l'avancement du projet.*
+- Déploiement d'un domaine Active Directory (nouvelle forêt, contrôleur de domaine Windows Server 2025)
+- Configuration DNS : redirecteurs, zone de recherche inversée, enregistrements dynamiques sécurisés
+- Configuration DHCP : étendue, options, autorisation dans Active Directory
+- Mise en service d'un poste Windows 11 et jonction au domaine
+- Diagnostic d'incidents : relation d'approbation poste/domaine, enregistrements DNS obsolètes
 
 ## Organisation du dépôt
 
