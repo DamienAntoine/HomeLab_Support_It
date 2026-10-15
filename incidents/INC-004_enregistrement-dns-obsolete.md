@@ -5,7 +5,7 @@
 | Date | 15 octobre 2026 |
 | Catégorie | Réseau / DNS / DHCP |
 | Machine | PC-CLIENT01, SRV-DC01 |
-| Statut | [À VÉRIFIER : Résolu] |
+| Statut | Résolu |
 
 ## Symptôme
 
