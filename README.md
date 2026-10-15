@@ -25,7 +25,7 @@ Reproduction virtualisée de l'infrastructure informatique d'une PME, pour prati
 - [x] Préparation de l'hôte et installation de VirtualBox
 - [x] Installation de Windows Server et promotion en contrôleur de domaine
 - [x] Configuration DNS et DHCP
-- [ ] Installation d'un poste client Windows 11 joint au domaine
+- [x] Installation d'un poste client Windows 11 joint au domaine
 
 ### Phase 2 : support au quotidien
 - [ ] Gestion des comptes utilisateurs et des groupes Active Directory
