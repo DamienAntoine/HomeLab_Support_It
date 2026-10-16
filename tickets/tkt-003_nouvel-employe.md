@@ -6,7 +6,7 @@
 | Demandeur | Sophie Lefèvre (RH) |
 | Bénéficiaire | Thomas Girard (Comptabilité) |
 | Date d'ouverture | 16/10/2026 |
-| Date de clôture | [À COMPLÉTER] |
+| Date de clôture | 19/10/2026 |
 | Priorité | Basse (demande planifiée, aucun utilisateur bloqué) |
 | Statut | [À COMPLÉTER : Clos une fois la connexion de Thomas vérifiée] |
 
