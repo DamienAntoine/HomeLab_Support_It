@@ -49,6 +49,10 @@ Reproduction virtualisée de l'infrastructure informatique d'une PME, pour prati
 - Configuration DHCP : étendue, options, autorisation dans Active Directory
 - Mise en service d'un poste Windows 11 et jonction au domaine
 - Diagnostic d'incidents : relation d'approbation poste/domaine, enregistrements DNS obsolètes
+- Structuration d'un annuaire Active Directory : unités d'organisation, conventions de nommage, groupes de rôle
+- Gestion du cycle de vie des comptes : création, réinitialisation, déverrouillage, arrivée et départ d'un employé
+- Configuration d'une stratégie de verrouillage des comptes par GPO
+- Rédaction de tickets de support selon les pratiques ITIL (incident, demande de service, priorité)
 
 ## Organisation du dépôt
 
@@ -56,8 +60,13 @@ Reproduction virtualisée de l'infrastructure informatique d'une PME, pour prati
 | --- | --- |
 | [`journal/`](journal/) | Notes de chaque séance de travail, datées |
 | [`procedures/`](procedures/) | Fiches techniques réutilisables (ex. : créer un utilisateur) |
-| [`incidents/`](incidents/) | Incidents traités : symptôme, diagnostic, résolution |
+| [`incidents/`](incidents/) | Pannes réelles rencontrées sur le lab : symptôme, diagnostic, résolution |
+| [`tickets/`](tickets/) | Demandes d'utilisateurs simulées, traitées comme dans un outil de ticketing |
 | [`scripts/`](scripts/) | Scripts d'automatisation |
+
+### Organisation de l'annuaire
+
+![Arborescence Active Directory](screenshots/2026-10-16/2026-10-16_srv-dc01_org.png)
 
 ## Note de sécurité
 
