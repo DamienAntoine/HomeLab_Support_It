@@ -28,7 +28,7 @@ Reproduction virtualisée de l'infrastructure informatique d'une PME, pour prati
 - [x] Installation d'un poste client Windows 11 joint au domaine
 
 ### Phase 2 : support au quotidien
-- [ ] Gestion des comptes utilisateurs et des groupes Active Directory
+- [x] Gestion des comptes utilisateurs et des groupes Active Directory
 - [ ] Partages de fichiers et droits NTFS
 - [ ] Stratégies de groupe (GPO)
 - [ ] Traitement de tickets dans ServiceNow (instance développeur), selon les pratiques ITIL
