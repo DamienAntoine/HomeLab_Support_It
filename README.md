@@ -54,6 +54,7 @@ Reproduction virtualisée de l'infrastructure informatique d'une PME, pour prati
 - Configuration d'une stratégie de verrouillage des comptes par GPO
 - Rédaction de tickets de support selon les pratiques ITIL (incident, demande de service, priorité)
 - Partages de fichiers et droits NTFS selon la méthode AGDLP, appartenance temporaire aux groupes (Privileged Access Management)
+- Stratégies de groupe : connexion automatique des lecteurs réseau, ciblage par groupe, énumération basée sur l'accès
 
 ## Organisation du dépôt
 
