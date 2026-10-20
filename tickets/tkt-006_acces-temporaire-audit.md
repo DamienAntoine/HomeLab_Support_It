@@ -26,8 +26,8 @@ Pour l'audit annuel, j'ai besoin de consulter le dossier Compta pendant un mois.
 ### 19/10/2026 — Mise en place de l'accès
 
 **Actions :**
-1. Création du groupe domaine local `DL-Partage-Compta_R`, pour la lecture seule du dossier `Compta`.
-2. Création du groupe global `GG-Audit-Compta`, membre de `DL-Partage-Compta_R`.
+1. Création du groupe domaine local `DL_Partage-Compta_R`, pour la lecture seule du dossier `Compta`.
+2. Création du groupe global `GG_Audit-Compta`, membre de `DL_Partage-Compta_R`.
 3. Ajout d'une entrée en lecture sur le dossier `Compta`, appliquée au dossier, à ses sous-dossiers et à ses fichiers.
 4. Activation de la fonctionnalité *Privileged Access Management* de la forêt (changement documenté dans le journal du 19/10/2026).
 5. Ajout de Sophie Lefèvre au groupe pour 30 jours :
