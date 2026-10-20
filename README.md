@@ -29,7 +29,7 @@ Reproduction virtualisée de l'infrastructure informatique d'une PME, pour prati
 
 ### Phase 2 : support au quotidien
 - [x] Gestion des comptes utilisateurs et des groupes Active Directory
-- [ ] Partages de fichiers et droits NTFS
+- [x] Partages de fichiers et droits NTFS
 - [ ] Stratégies de groupe (GPO)
 - [ ] Traitement de tickets dans ServiceNow (instance développeur), selon les pratiques ITIL
 - [ ] Prise en main à distance
