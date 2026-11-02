@@ -30,10 +30,10 @@ Reproduction virtualisée de l'infrastructure informatique d'une PME, pour prati
 ### Phase 2 : support au quotidien
 - [x] Gestion des comptes utilisateurs et des groupes Active Directory
 - [x] Partages de fichiers et droits NTFS
-- [ ] Stratégies de groupe (GPO)
-- [ ] Traitement de tickets dans ServiceNow (instance développeur), selon les pratiques ITIL
-- [ ] Prise en main à distance
-- [ ] Administration du domaine depuis le poste client (outils RSAT)
+- [x] Stratégies de groupe (GPO)
+- [x] Traitement de tickets dans ServiceNow (instance développeur), selon les pratiques ITIL
+- [x] Prise en main à distance
+- [x] Administration du domaine depuis le poste client (outils RSAT)
 - [ ] Chiffrement BitLocker avec sauvegarde des clés de récupération dans Active Directory
 - [ ] Sauvegarde et restauration
 
